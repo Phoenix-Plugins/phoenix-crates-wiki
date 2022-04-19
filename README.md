@@ -8,7 +8,7 @@ Phoenix Crates supports Minecraft 1.8, 1.16, 1.17 and 1.18 for now. Currently we
 
 ## Wiki
 
-If you want to understand how this plugin works you can check our wiki [here](https://github.com/PhoenixPlugins/phoenix-crates-wiki/wiki).
+If you want to understand how this plugin works you can check our wiki [here](https://github.com/Phoenix-Plugins/phoenix-crates-wiki/wiki).
 
 ## API
 
