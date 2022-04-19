@@ -20,7 +20,7 @@ One of the interesting features of this plugin is that you can make a crate open
 
 Opening animations are super easy to configure, just access the configuration panel of a crate type and click "Edit Opening Animations" icon and click on the icons that correspond to animation as you can see below:
 
-![Opening Animations Image](images/Animations-&-Effects-1.png)
+![Opening Animations Image](https://github.com/Phoenix-Plugins/phoenix-crates-wiki/tree/main/images/Animations-&-Effects-1.png)
 
 ## Idle Animations
 
@@ -34,17 +34,17 @@ Effects are basically standards or types of particles that you can show in your 
 
 Assuming you are in the main editing panel of a crate type by clicking "Edit Idle Animation" ICON you will come across the following menu:
 
-![Animation Effects Image](images/Animations-&-Effects-2.png)
+![Animation Effects Image](https://github.com/Phoenix-Plugins/phoenix-crates-wiki/tree/main/images/Animations-&-Effects-2.png)
 
 When looking to the image above there are 4 initial icons, each corresponds to an effect as we can see in the image below:
 
-![Animation Effect Lore Image](images/Animations-%26-Effects-3.png)
+![Animation Effect Lore Image](https://github.com/Phoenix-Plugins/phoenix-crates-wiki/tree/main/images/Animations-%26-Effects-3.png)
 
 #### Animation Effect
 
 When clicking to edit a effect or even creating one you will see this menu:
 
-![Edit/Crate Animation Effect Image](images/Animations-%26-Effects-4.png)
+![Edit/Crate Animation Effect Image](https://github.com/Phoenix-Plugins/phoenix-crates-wiki/tree/main/images/Animations-%26-Effects-4.png)
 
 Each effect is composed of 7 fields:
 

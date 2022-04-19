@@ -6,11 +6,11 @@ To add an item as a reward just click on the option "Edit Crate Rewards", and yo
 
 You have two ways to add items, or through a green icon or an option in the lower right corner "Add Multiple Rewards" that allows you to add multiple rewards at the same time quickly.
 
-![Add Multiple Items Image](images/Rewards-Items-1.png)
+![Add Multiple Items Image](https://github.com/Phoenix-Plugins/phoenix-crates-wiki/tree/main/images/Rewards-Items-1.png)
 
 When editing/creating an item you will see the following menu:
 
-![Add Reward Image](images/Rewards-Items-2.png)
+![Add Reward Image](https://github.com/Phoenix-Plugins/phoenix-crates-wiki/tree/main/images/Rewards-Items-2.png)
 
 * In the **first icon** you will be able to see a sword, in that position you can add an item, currently only to show a nomherite sword is added.
 
@@ -26,10 +26,10 @@ When editing/creating an item you will see the following menu:
 
   After clicking the item you will see the following menu:
 
-  ![Edit Reward Commands Image](images/Rewards-Items-3.png)
+  ![Edit Reward Commands Image](https://github.com/Phoenix-Plugins/phoenix-crates-wiki/tree/main/images/Rewards-Items-3.png)
 
   To add items just click on the green icon that will ask you to type the command in the chat.
 
-  ![Add Reward Command Image](images/Rewards-Items-4.png)
+  ![Add Reward Command Image](https://github.com/Phoenix-Plugins/phoenix-crates-wiki/tree/main/images/Rewards-Items-4.png)
 
   **NOTE: It is important to point out that you have a placeholder in your favor. When using %player% you can set where the player name will be replaced after the command is run.**

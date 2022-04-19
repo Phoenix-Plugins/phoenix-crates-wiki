@@ -35,7 +35,7 @@ For this just run the command:
 
 This command will give you the crate item that will allow you to add a crate when you right click with it on the floor.
 
-![Placing Crate](images/Getting-Started-1.png)
+![Placing Crate](https://github.com/Phoenix-Plugins/phoenix-crates-wiki/tree/main/images/Getting-Started-1.png)
 
 ## Opening a crate
 

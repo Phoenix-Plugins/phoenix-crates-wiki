@@ -12,11 +12,11 @@ For you to be able to edit all types of crates inside the server you have to exe
 
 * Initially you are encountered by a menu where you will have two options, one of them allows you to reload all plugin settings as main settings, crate types as well as messages and other option allows you to edit/create crates.
 
-  ![Main Menu Image](images/InGameEditor-1.png)
+  ![Main Menu Image](https://github.com/Phoenix-Plugins/phoenix-crates-wiki/tree/main/images/InGameEditor-1.png)
 
 * In the following menu you can see all kinds of crates that are created. In addition you can also create crates by clicking the green icon.
 
-  ![All Crates Image](images/InGameEditor-2.png)
+  ![All Crates Image](https://github.com/Phoenix-Plugins/phoenix-crates-wiki/tree/main/images/InGameEditor-2.png)
 
 * From the details menu of a crate you can manage all the stuff that a crate type have such as:
 
@@ -29,4 +29,4 @@ For you to be able to edit all types of crates inside the server you have to exe
 
   **NOTE: All these topics are all explained in the "Crates" section.**
 
-  ![Crate Details Image](images/InGameEditor-3.png)
+  ![Crate Details Image](https://github.com/Phoenix-Plugins/phoenix-crates-wiki/tree/main/images/InGameEditor-3.png)

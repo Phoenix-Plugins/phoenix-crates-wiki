@@ -8,4 +8,4 @@ The minimum percentage that the system accepts is 1% but there is no need to hav
 
 Also you can see all items you added by using the preview mode clicking left on the crate block (assuming that this feature is activated) like can you see in the following image:
 
-![Preview Rewards Image](images/Chance-System-1.png)
+![Preview Rewards Image](https://github.com/Phoenix-Plugins/phoenix-crates-wiki/tree/main/images/Chance-System-1.png)
